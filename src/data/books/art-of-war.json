@@ -1,0 +1,20 @@
+{
+    "id": "art-of-war",
+    "title": "El arte de la guerra",
+    "author": "Sun Tzu",
+    "description": "Un tratado militar clásico que analiza estrategias de guerra y filosofía táctica.",
+    "coverUrl": "/covers/art-of-war.jpg",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Capítulo 1",
+        "contentHtml": "<p>Texto del capítulo 1...</p>"
+      },
+      {
+        "number": 2,
+        "title": "Capítulo 2",
+        "contentHtml": "<p>Texto del capítulo 2...</p>"
+      }
+    ]
+  }
+  

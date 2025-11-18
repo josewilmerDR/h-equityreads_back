@@ -1,0 +1,20 @@
+{
+    "id": "little-women-alcott",
+    "title": "Mujercitas",
+    "author": "Louisa May Alcott",
+    "description": "La historia entrañable de las hermanas March, un retrato íntimo del crecimiento personal, los vínculos familiares y la lucha por la independencia en la Nueva Inglaterra del siglo XIX.",
+    "coverUrl": "/covers/little-women.jpg",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Capítulo 1",
+        "contentHtml": "<p>Contenido del capítulo 1...</p>"
+      },
+      {
+        "number": 2,
+        "title": "Capítulo 2",
+        "contentHtml": "<p>Contenido del capítulo 2...</p>"
+      }
+    ]
+  }
+  

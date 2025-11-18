@@ -1,0 +1,20 @@
+{
+    "id": "a-tale-of-two-cities-dickens",
+    "title": "Historia de dos ciudades",
+    "author": "Charles Dickens",
+    "description": "Un drama histórico ambientado en Londres y París durante la Revolución Francesa, centrado en sacrificios, injusticias y segundas oportunidades.",
+    "coverUrl": "/covers/a-tale-of-two-cities.jpg",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Capítulo 1",
+        "contentHtml": "<p>Contenido del capítulo 1...</p>"
+      },
+      {
+        "number": 2,
+        "title": "Capítulo 2",
+        "contentHtml": "<p>Contenido del capítulo 2...</p>"
+      }
+    ]
+  }
+  
