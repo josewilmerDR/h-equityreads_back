@@ -1,0 +1,23 @@
+{
+    "id": "alice-in-wonderland-max-hale",
+    "title": "Alicia En El País De Las Maravillas",
+    "author": "Lewis Carroll",
+    "description": "",
+    "coverUrl": "/covers/alice-in-wonderland.jpg",
+    "chaptersCount": 12,
+    "chapters": [
+      { "number": 1, "title": "Capítulo 1" },
+      { "number": 2, "title": "Capítulo 2" },
+      { "number": 3, "title": "Capítulo 3" },
+      { "number": 3, "title": "Capítulo 4" },
+      { "number": 3, "title": "Capítulo 5" },
+      { "number": 3, "title": "Capítulo 6" },
+      { "number": 3, "title": "Capítulo 7" },
+      { "number": 3, "title": "Capítulo 8" },
+      { "number": 3, "title": "Capítulo 9" },
+      { "number": 3, "title": "Capítulo 10" },
+      { "number": 3, "title": "Capítulo 11" },
+      { "number": 3, "title": "Capítulo 12" }
+    ]
+  }
+  

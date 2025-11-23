@@ -4,7 +4,7 @@
     "author": "Jane Austen",
     "description": "La historia de Elizabeth Bennet y el enigmático señor Darcy, un clásico sobre prejuicios, orgullo, familia y segundas oportunidades en la Inglaterra rural del siglo XIX.",
     "coverUrl": "/covers/orgullo-y-prejuicio.jpg",
-    "chaptersCount": 3,
+    "chaptersCount": 61,
     "chapters": [
       { "number": 1, "title": "Capítulo 1" },
       { "number": 2, "title": "Capítulo 2" },

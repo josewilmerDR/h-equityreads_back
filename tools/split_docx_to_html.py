@@ -4,10 +4,10 @@ from docx import Document
 
 # ========= CONFIG =========
 
-BOOK_ID = "orgullo-y-prejuicio-austen"
+BOOK_ID = "the-art-of-war"
 
 BASE_DIR = Path(__file__).resolve().parent.parent   # /backend
-DOCX_PATH = BASE_DIR / "data" / "source_docs" / "Orgullo_y_Prejuicio_251118.docx"
+DOCX_PATH = BASE_DIR / "data" / "source_docs" / "The_Art_of_War.docx"
 CHAPTERS_DIR = BASE_DIR / "data" / "books" / BOOK_ID / "chapters"
 
 CHAPTERS_DIR.mkdir(parents=True, exist_ok=True)

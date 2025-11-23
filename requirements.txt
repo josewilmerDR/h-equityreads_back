@@ -7,3 +7,5 @@ flask
 flask-cors
 gunicorn
 python-docx==1.2.0
+firebase-admin
+pypandoc
