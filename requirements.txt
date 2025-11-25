@@ -9,3 +9,5 @@ gunicorn
 python-docx==1.2.0
 firebase-admin
 pypandoc
+EbookLib
+beautifulsoup4
