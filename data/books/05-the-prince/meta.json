@@ -1,0 +1,10 @@
+{
+  "id": "the-prince",
+  "title": "The Prince",
+  "author": "Desconocido",
+  "description": "Importado automáticamente",
+  "coverUrl": "covers/cover.jpg",
+  "epubUrl": "/api/books/05-the-prince/download",
+  "source": "local",  
+  "category":"Estrategia Militar, Liderazgo, Filosofía"
+}

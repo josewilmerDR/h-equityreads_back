@@ -1,0 +1,10 @@
+{
+  "id": "the-art-of-war",
+  "title": "El Arte de la Guerra",
+  "author": "Sun Tzu",
+  "description": "Importado automáticamente",
+  "coverUrl": "/covers/cover.jpg",
+  "epubUrl": "/api/books/06-the-art-of-war/download",
+  "source": "local",  
+  "category":"Estrategia Militar, Liderazgo, Filosofía"
+}

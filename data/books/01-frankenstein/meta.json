@@ -1,0 +1,10 @@
+{
+  "id": "frankenstein",
+  "title": "FRANKENSTEIN, O EL PROMETEO MODERNO",
+  "author": "Mary Wollstonecraft Shelley",
+  "description": "Importado automáticamente",
+  "coverUrl": "covers/cover.jpg",
+  "epubUrl": "/api/books/01-frankenstein/download",
+  "source": "local",  
+  "category":"Novela Gótica, Dark Romance, Ciencia Ficción, Novela Filosófica"
+}

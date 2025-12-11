@@ -1,0 +1,10 @@
+{
+  "id": "meditatios",
+  "title": "Meditaciones",
+  "author": "MARCUS AURELIUS",
+  "description": "Importado automáticamente",
+  "coverUrl": "/covers/cover.jpg",
+  "epubUrl": "/api/books/meditatios/download",
+  "source": "local",  
+  "category":"Filosofía, Política, Liderazgo"
+}
